@@ -1,0 +1,24 @@
+div{
+    height: 700px;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Allerta Stencil', sans-serif;
+    
+}
+h1{
+    color: white;
+    text-align: center;
+    margin: auto;
+    position: relative;
+    top: 50%;
+   
+}
+.heading{
+   margin: auto;
+    color: orangered;
+    font-family: 'Spicy Rice', cursive;
+    letter-spacing: 5px;
+    font-size: 35px;
+    background-color: 
+}
